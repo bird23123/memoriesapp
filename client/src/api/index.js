@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API = axios.create({ baseURL: 'https://master--superb-melomakarona-3b142c.netlify.app/' });
+const API = axios.create({ baseURL: 'https://ilyabokh.netlify.app/' });
 
 API.interceptors.request.use((req) => {
 	if (localStorage.getItem('profile')) {
