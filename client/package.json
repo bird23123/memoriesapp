@@ -2,7 +2,7 @@
 	"name": "mern-stack-client",
 	"version": "0.1.0",
 	"private": true,
-	"proxy": "https://memoriesapp-2x0vdlh7o-bird23123.vercel.app/",
+	"proxy": "https://master--superb-melomakarona-3b142c.netlify.app/",
 	"dependencies": {
 		"@material-ui/core": "^4.9.10",
 		"@material-ui/icons": "^4.9.1",
